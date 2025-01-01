@@ -5,8 +5,10 @@
 </head>
 
 <body>
-    <h1>PHP Starter in CodeSandbox</h1>
-    <?php phpinfo(); ?>
+<?php
+
+echo "Halo dunia!";
+?>
 </body>
 
 </html>
