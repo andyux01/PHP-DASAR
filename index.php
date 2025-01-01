@@ -5,7 +5,7 @@
 </head>
 
 <body>
-    <h1>PHP Starter in CodeSandbox</h1>
+    <h1>PokkkkCodeSandbox</h1>
     <?php phpinfo(); ?>
 </body>
 
